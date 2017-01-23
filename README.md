@@ -1,6 +1,6 @@
 # ESTÁGIO - FULL-STACK DEVELOPER
 
-[!Brand Lovers](./img/brandlovers.jpg)
+![Brand Lovers](./img/brandlovers.png)
 
 ## Descrição da vaga
 Estágio para planejamento e desenvolvimento de aplicações full-stack, que incluem back-end e front-end utilizando somente as últimas tecnologias do mercado (bleeding-edge technologies): NodeJS, GraphQL, Relay, React e React Native.
