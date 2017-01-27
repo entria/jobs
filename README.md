@@ -25,5 +25,8 @@ A Entria desenvolve projetos complexos. Um dos nossos principais apps é o Brand
 
 É liderada por um ex-Amazon.com com experiência no Brasil e no exterior. Somos ambiciosos e queremos mais pessoas para crescer conosco.
 
+## Challenge
+- [Challenge](./challenge.md) - Se você resolver esse challenge suas chances aumentam em 1000% de conseguir a vaga!
+
 ## Como se candidatar
 Envie um email para estagio@entria.com.br com com seu GitHub, LinkedIn e CV anexado, com o assunto: Estágio Full-stack Developer.
