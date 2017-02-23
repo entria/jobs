@@ -1,16 +1,19 @@
-# ESTÁGIO - FULL-STACK DEVELOPER
+# VAGA - FULL-STACK DEVELOPER
 
 ![Brand Lovers](./img/brandlovers.png)
 
 ## Descrição da vaga
-Estágio para planejamento e desenvolvimento de aplicações full-stack, que incluem back-end e front-end utilizando somente as últimas tecnologias do mercado (bleeding-edge technologies): NodeJS, GraphQL, Relay, React e React Native.
+Temos vagas para estágio, junior, pleno e senior para desenvolvimento de aplicações full-stack, que incluem back-end e front-end utilizando somente as últimas tecnologias do mercado (bleeding-edge technologies): NodeJS, GraphQL, Relay, React e React Native.
 
 ## O que esperamos
 - Noções de Javascript;
 - Muita vontade de aprender;
 - Proatividade para fazer um pouco de tudo.
 
-Estar cursando cursos relacionados: Bacharelado em Ciência da Computação, Engenharias e/ou Cursos Técnicos.
+Para estágio: estar cursando cursos relacionados: Bacharelado em Ciência da Computação, Engenharias e/ou Cursos Técnicos.
+
+## Habilidades que contam pontos
+- [Lista de Habilidades](./skills.md) - cada um item dessa lista aumenta a sua change de conseguir a vaga
 
 ## Local
 São Paulo - Zona Sul - Berrini
@@ -29,4 +32,4 @@ A Entria desenvolve projetos complexos. Um dos nossos principais apps é o Brand
 - [Challenge](./challenge.md) - Se você resolver esse challenge suas chances aumentam em 1000% de conseguir a vaga!
 
 ## Como se candidatar
-Envie um email para estagio@entria.com.br com com seu GitHub, LinkedIn e CV anexado, com o assunto: Estágio Full-stack Developer.
+Envie um email para vagas@entria.com.br com com seu GitHub, LinkedIn e CV anexado, com o assunto: Full-stack Developer.
