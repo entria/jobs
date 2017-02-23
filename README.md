@@ -13,7 +13,7 @@ Temos vagas para estágio, junior, pleno e senior para desenvolvimento de aplica
 Para estágio: estar cursando cursos relacionados: Bacharelado em Ciência da Computação, Engenharias e/ou Cursos Técnicos.
 
 ## Habilidades que contam pontos
-- [Lista de Habilidades](./skills.md) - cada um item dessa lista aumenta a sua change de conseguir a vaga
+- [Lista de Habilidades](./skills.md) - cada item que você já souber dessa lista aumenta a sua change de conseguir a vaga
 
 ## Local
 São Paulo - Zona Sul - Berrini
