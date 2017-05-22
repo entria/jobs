@@ -6,11 +6,11 @@
 - [ ] it should be open sourced on your github repo
 
 # Extras
-- [ ] implement in React Native as well
-- [ ] implement code splitting using react-loadable
-- [ ] optimize webpack
-- [ ] create a [storybook] with your components
-- [ ] test your components with [jest]
+- [ ] Also Implement in React Native
+- [ ] Implement code splitting using react-loadable
+- [ ] Optimize webpack
+- [ ] Create a [storybook] with your components
+- [ ] Test your components with [jest]
 
 
 [storybook]: https://github.com/storybooks/storybook
