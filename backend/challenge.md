@@ -10,4 +10,4 @@
 - [ ] Add authentication
 - [ ] Add docker support
 
-[Jest]: https://jest-everywhere.now.s/
+[Jest]: https://jest-everywhere.now.sh/
