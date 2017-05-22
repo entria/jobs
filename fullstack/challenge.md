@@ -7,8 +7,14 @@
 - [ ] it should show the content inside a FlatList (a list of reddit or hackernews or github or twitter or a mix of them)
 - [ ] it should be open sourced on your github repo
 
-## Extra
+## Extras
 - [ ] design
 - [ ] fastlane
 - [ ] authentication
 - [ ] own GraphQL server
+- [ ] create a [storybook] with your components
+- [ ] tests using [jest]
+
+
+[storybook]: https://github.com/storybooks/storybook
+[jest]: https://jest-everywhere.now.s
