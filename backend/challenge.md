@@ -6,6 +6,8 @@
 
 # Extras
 - [ ] Create a GraphQL Type for the model created, and expose it in a GraphQL endpoint
-- [ ] Add tests using Jest
+- [ ] Add tests using [Jest]
 - [ ] Add authentication
 - [ ] Add docker support
+
+[Jest]: https://jest-everywhere.now.s/
