@@ -9,3 +9,7 @@
 - [ ] implement in React Native as well
 - [ ] implement code splitting using react-loadable
 - [ ] optimize webpack
+- [ ] create a [storybook] with your components
+
+
+[storybook]: https://github.com/storybooks/storybook
