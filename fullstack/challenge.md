@@ -17,4 +17,4 @@
 
 
 [storybook]: https://github.com/storybooks/storybook
-[jest]: https://jest-everywhere.now.s
+[jest]: https://jest-everywhere.now.sh
