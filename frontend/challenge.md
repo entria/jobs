@@ -10,6 +10,8 @@
 - [ ] implement code splitting using react-loadable
 - [ ] optimize webpack
 - [ ] create a [storybook] with your components
+- [ ] test your components with [jest]
 
 
 [storybook]: https://github.com/storybooks/storybook
+[jest]: https://jest-everywhere.now.s
