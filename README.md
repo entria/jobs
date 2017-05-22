@@ -1,35 +1,82 @@
-# VAGA - FULL-STACK DEVELOPER
+# ![Entria](./img/logo.png) Developer Jobs
 
-![Brand Lovers](./img/brandlovers.png)
+## What we do?
+- `We build cool stuff`
+- **Services and Produts**. We build services and products for final users and businesses.
+Our most popular app is BrandLovers (https://brandlovers.com), a social network powered with machine learning
+to provide the best beauty products for your needs.
+- **Enterprise Solutions**. We help big enterprises solve their legacy problems and deliver high quality
+Apps (Mobile and Web) for their users and customers faster then any other company in the market.
+- **Open Source**. We collaborate in a lot of open source projects and we work on our own as well.
+[Create GraphQL](https://github.com/lucasbento/create-graphql) was produced based on our production projects
+experiences and needs.
+- **Community**. We've founded [React-SP Meetup](https://www.meetup.com/ReactJS-SP/) and [React Brasil slack](react-brasil-slack.herokuapp.com)
+community to share knowledge and learn from the community.
 
-## Descrição da vaga
-Temos vagas para estágio, junior, pleno e senior para desenvolvimento de aplicações full-stack, que incluem back-end e front-end utilizando somente as últimas tecnologias do mercado (bleeding-edge technologies): NodeJS, GraphQL, Relay, React e React Native.
+## Team
+Entria is led by an ex-amazon employee with experience in Brazil and overseas.
+Developers passionated in solving complex problems and deliver high quality code.
 
-## O que esperamos
-- Noções de Javascript;
-- Muita vontade de aprender;
-- Proatividade para fazer um pouco de tudo.
+# Jobs
+We have 4 types of Jobs available at Entria Tech Team: **internship**, **backend**, **frontend** and **fullstack**.
 
-Para estágio: estar cursando cursos relacionados: Bacharelado em Ciência da Computação, Engenharias e/ou Cursos Técnicos.
+# Internship (only allocated)
+## Description
+Internship will include working in a variety of projects as a fullstack to learn as much as possible how to build, test and deliver high quality projects and apps. Each intern has a mentor that will help him/her progress as fast as possible.
 
-## Habilidades que contam pontos
-- [Lista de Habilidades](./skills.md) - cada item que você já souber dessa lista aumenta a sua change de conseguir a vaga
+## Requirements
+- [ ] Basic knowledge of programming
+- [ ] Basic knowledge of javascript
+- [ ] Basic knowledge of git
+- [ ] Passion to learn new things and solve complex problems
+- [ ] Proactivity
+- [ ] English
+- [ ] [Challenge](./internship/challenge.md)
 
-## Local
-São Paulo - Zona Sul - Berrini
+## Beneficts
+- A Macbook or MacMini
+- Flexible schedule based on University needs (exams and projects)
+- Great place to work and learn
 
-## Benefícios
-- Ambiente legal para trabalhar;
-- Sem frescuras para horário de trabalho;
-- Sim nós sabemos que você tem provas e vai precisar de alguma flexibilidade.
+# Backend (allocated and remote)
+## Description
+Backend developers will work on multiple projects to solve hard backend problems using Javascript, Nodejs, Koajs, Mongodb, WebSockets and GraphQL.
+They will deploy all these projects using these tools: Docker, Kubernetes, Jenkins/CircleCi.
 
-## Sobre a Entria
-A Entria desenvolve projetos complexos. Um dos nossos principais apps é o Brand Lovers (https://brandlovers.com), uma rede social que utiliza inteligência artificial para indicar o melhor produtos para os usuários.
+## Requirements
+- [ ] All the requirements from interns
+- [ ] Basic knowledge of Nodejs
+- [ ] Basic knowledge of REST api
+- [ ] Basic knowledge of database modeling
+- [ ] Basic knowledge of MongoDB
+- [ ] Good to know: Koajs, WebSockets, GraphQL, Docker, Kubernetes (not required)
+- [ ] [Challenge](./backend/challenge.md)
 
-É liderada por um ex-Amazon.com com experiência no Brasil e no exterior. Somos ambiciosos e queremos mais pessoas para crescer conosco.
+# Frontend (allocated and remote)
+## Description
+Frontend developers will work on multiple projects to solve hard frontend and mobile problems using React, React Native, Redux, Relay.
 
-## Challenge
-- [Challenge](./challenge.md) - Se você resolver esse challenge suas chances aumentam em 1000% de conseguir a vaga!
+## Requirements
+- [ ] All the requirements from interns
+- [ ] Basic knowledge of React
+- [ ] Basic knowledge of React Native
+- [ ] Basic knowledge of Flexbox
+- [ ] Basic knowledge of Styling and Css
+- [ ] Good to know: Redux, Relay (not required)
+- [ ] [Challenge](./frontend/challenge.md)
 
-## Como se candidatar
-Envie um email para vagas@entria.com.br com com seu GitHub, LinkedIn e CV anexado, com o assunto: Full-stack Developer.
+# FullStack (allocated and remote)
+## Description
+Fullstack developers build, test and deliver backend, frontend and mobile parts of projects, having a global overview of the whole project.
+
+## Requirements
+- [ ] All the requirements for backend developers
+- [ ] All the requirements for frontend developers
+- [ ] Good to have: experience in fullstack projects
+- [ ] [Challenge](./fullstack/challenge.md)
+
+# How to apply
+Send an email to **vagas@entria.com.br** with your GitHub, LinkedIn, Twitter and Resume attached, with the subject:
+I wanna be an Entria <Fullstack> Developer.
+
+Obs.: change **Fullstack** to Intern, Backend or Frontend if needed.
