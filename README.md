@@ -19,6 +19,7 @@ Developers passionated in solving complex problems and deliver high quality code
 
 # Jobs
 We have 4 types of Jobs available at Entria Tech Team: **internship**, **backend**, **frontend** and **fullstack**.
+If you indicate an awesome developer, and he/she get hired, we pay you R$ 500,00
 
 # Internship (only allocated)
 ## Description
