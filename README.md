@@ -34,7 +34,7 @@ Internship will include working in a variety of projects as a fullstack to learn
 - [ ] English
 - [ ] [Challenge](./internship/challenge.md)
 
-## Beneficts
+## Benefits
 - A Macbook or MacMini
 - Flexible schedule based on University needs (exams and projects)
 - Great place to work and learn
