@@ -5,6 +5,14 @@
 - [ ] it should use **fetch** to request data from an API
 - [ ] it should be open sourced on your github repo
 
+# Extras
+- [ ] configure babel
+- [ ] configure eslint
+- [ ] configure prettier
+- [ ] use async await
+- [ ] transform response to something more readable
+- [ ] configure and use flowtype
+
 Example of usage:
 
 `./metaweather-cli "São Paulo"`
