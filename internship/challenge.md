@@ -12,6 +12,7 @@
 - [ ] use async await
 - [ ] transform response to something more readable
 - [ ] configure and use flowtype
+- [ ] add tests
 
 Example of usage:
 
