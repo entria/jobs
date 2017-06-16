@@ -11,6 +11,7 @@
 - [ ] relay - https://www.learnrelay.org/
 - [ ] flow
 - [ ] jest - http://jest-everywhere.now.sh/
+- [ ] async programming (https://kriskowal.gitbooks.io/gtor/content/)
 
 ## Misc
 - [ ] database modelling
