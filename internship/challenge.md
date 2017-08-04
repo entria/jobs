@@ -1,4 +1,4 @@
-# Intership Challenge
+# Internship Challenge
 
 - [ ] choose one or more of these public APIs - https://github.com/toddmotto/public-apis.
 - [ ] create a simple command line interface to access this api (I recommend to use [yargs](https://github.com/yargs/yargs))
