@@ -7,7 +7,7 @@
 - [ ] react native - https://medium.com/entria/learning-path-react-native-5a97e9ce8c52#.dpkt0we4b
 - [ ] flexbox - http://flexboxfroggy.com/
 - [ ] mongoose
-- [ ] graphql - https://learngraphql.com/
+- [ ] graphql - https://www.howtographql.com/
 - [ ] relay - https://www.learnrelay.org/
 - [ ] flow
 - [ ] jest - http://jest-everywhere.now.sh/
