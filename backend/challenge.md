@@ -1,7 +1,7 @@
 # Backend Challenge
 
 - [ ] Create a simple model on mongoose
-- [ ] Create a REST CRUD (create, edit, update, delete) for the model created using koajs
+- [ ] Create a REST CRUD (create, read, update, delete) for the model created using koajs
 - [ ] it should be open sourced on your github repo
 
 # Extras
