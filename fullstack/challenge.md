@@ -3,8 +3,8 @@
 ## Create a React Native app
 - [ ] it should run on both iOS and Android
 - [ ] it should use Relay or Relay Modern
-- [ ] it should use our boilerplate https://github.com/entria/graphql-dataloader-boilerplate or one or more of the schemas available on https://www.graphqlhub.com/
-- [ ] it should show the content inside a FlatList (a list of reddit or hackernews or github or twitter or a mix of them)
+- [ ] it should use our boilerplate  or [Github] or [Yelp] schemas 
+- [ ] it should show retrieve the data from the server and display it inside a FlatList
 - [ ] it should be open sourced on your github repo
 
 ## Extras
@@ -19,3 +19,5 @@
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jest-everywhere.now.sh
+[Github]: https://github.com/entria/graphql-dataloader-boilerplate
+[Yelp]: https://www.yelp.com/developers/platform
