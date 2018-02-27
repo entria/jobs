@@ -6,7 +6,7 @@
 Our most popular app is BrandLovers (https://brandlovers.com), a social network powered with machine learning
 to provide the best beauty products for your needs.
 - **Enterprise Solutions**. We help big enterprises solve their legacy problems and deliver high quality
-Apps (Mobile and Web) for their users and customers faster then any other company in the market.
+Apps (Mobile and Web) for their users and customers faster than any other company in the market.
 - **Open Source**. We collaborate in a lot of open source projects and we work on our own as well.
 [Create GraphQL](https://github.com/lucasbento/create-graphql) was produced based on our production projects
 experiences and needs.
