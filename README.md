@@ -2,7 +2,7 @@
 
 ## What we do?
 - `We build cool stuff`
-- **Services and Produts**. We build services and products for final users and businesses.
+- **Services and Products**. We build services and products for final users and businesses.
 Our most popular app is BrandLovers (https://brandlovers.com), a social network powered with machine learning
 to provide the best beauty products for your needs.
 - **Enterprise Solutions**. We help big enterprises solve their legacy problems and deliver high quality
