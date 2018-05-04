@@ -9,7 +9,7 @@
 - [ ] mongoose
 - [ ] graphql - https://www.howtographql.com/
 - [ ] relay - https://www.learnrelay.org/
-- [ ] flow
+- [ ] flow - https://flow.org/
 - [ ] jest - http://jest-everywhere.now.sh/
 - [ ] async programming (https://kriskowal.gitbooks.io/gtor/content/)
 
