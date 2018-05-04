@@ -18,7 +18,7 @@ Entria is led by an ex-amazon employee with experience in Brazil and overseas.
 Developers passionated in solving complex problems and deliver high quality code.
 
 # Jobs
-We have 4 types of Jobs available at Entria Tech Team: **internship**, **backend**, **frontend** and **fullstack**.
+We have 5 types of Jobs available at Entria Tech Team: **internship**, **summer internship**, **backend**, **frontend** and **fullstack**.
 If you indicate an awesome developer, and he/she get hired, we pay you R$ 500,00
 
 # Internship (only allocated)
@@ -46,7 +46,7 @@ We provide 2 opportunities in a year:
 - January/February in the summer 
 - July in the winter
 
-It is 3 to 4 weeks here at :Entria:, where you gonna learn how become a FullStack Developer and much practical stuff for life.
+It is 3 to 4 weeks here at <img src="./img/logo.png" width="12" height="12" />, where you gonna learn how become a FullStack Developer and much practical stuff for life.
 
 # Backend (allocated and remote)
 ## Description
