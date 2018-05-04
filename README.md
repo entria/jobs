@@ -39,6 +39,15 @@ Internship will include working in a variety of projects as a fullstack to learn
 - Flexible schedule based on University needs (exams and projects)
 - Great place to work and learn
 
+# Summer Internship (allocated)
+It is very common in USA to have summer internships, we also believe this is a great opportunity to interns to know Entria and to learn a lot of things that University does not provide.
+We provide 2 opportunities in a year:
+
+- January/February in the summer 
+- July in the winter
+
+It is 3 to 4 weeks here at :Entria:, where you gonna learn how become a FullStack Developer and much practical stuff for life.
+
 # Backend (allocated and remote)
 ## Description
 Backend developers will work on multiple projects to solve hard backend problems using Javascript, Nodejs, Koajs, Mongodb, WebSockets and GraphQL.
