@@ -51,7 +51,7 @@ We provide 2 opportunities in a year:
 
 It is 3 to 4 weeks here at <img src="./img/logo.png" width="12" height="12" />, where you gonna learn how become a FullStack Developer and much practical stuff for life.
 
-# Backend (allocated and remote)
+# Backend (allocated or remote)
 ## Description
 Backend developers will work on multiple projects to solve hard backend problems using Javascript, Nodejs, Koajs, Mongodb, WebSockets and GraphQL.
 They will deploy all these projects using these tools: Docker, Kubernetes, Jenkins/CircleCi.
@@ -65,7 +65,7 @@ They will deploy all these projects using these tools: Docker, Kubernetes, Jenki
 - [ ] Good to know: Koajs, WebSockets, GraphQL, Docker, Kubernetes (not required)
 - [ ] [Challenge](./backend/challenge.md)
 
-# Frontend (allocated and remote)
+# Frontend (allocated or remote)
 ## Description
 Frontend developers will work on multiple projects to solve hard frontend and mobile problems using React, React Native, Redux, Relay.
 
@@ -78,7 +78,7 @@ Frontend developers will work on multiple projects to solve hard frontend and mo
 - [ ] Good to know: Redux, Relay (not required)
 - [ ] [Challenge](./frontend/challenge.md)
 
-# FullStack (allocated and remote)
+# FullStack (allocated or remote)
 ## Description
 Fullstack developers build, test and deliver backend, frontend and mobile parts of projects, having a global overview of the whole project.
 
