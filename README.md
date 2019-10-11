@@ -89,7 +89,4 @@ Fullstack developers build, test and deliver backend, frontend and mobile parts 
 - [ ] [Challenge](./fullstack/challenge.md)
 
 # How to apply
-Send an email to **vagas@entria.com.br** with your GitHub, LinkedIn, Twitter and Resume attached, with the subject:
-I wanna be an Entria <Fullstack> Developer.
-
-Obs.: change **Fullstack** to Intern, Backend or Frontend if needed.
+Just go [Entria Jobs](https://entria.contrata.vc)
