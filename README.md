@@ -24,6 +24,9 @@ If you indicate an awesome developer, and he/she get hired, we pay you R$ 500,00
 # How to Get Hired?
 https://twitter.com/sseraphini/status/1080928496057307137
 
+# How to Stand Out?
+https://twitter.com/renanmav/status/1189889564690788357
+
 # Internship (only allocated)
 ## Description
 Internship will include working in a variety of projects as a fullstack to learn as much as possible how to build, test and deliver high quality projects and apps. Each intern has a mentor that will help him/her progress as fast as possible.
