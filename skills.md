@@ -3,7 +3,7 @@
 - [ ] terminal skills (cd, mkdir, ls, environment and so)
 - [ ] git (commit, push, branch and so on) and github (fork, pull request, code review)
 - [ ] javascript (es6/7+)
-- [ ] react (component lifecycle, setState, setState callback, props as functions)
+- [ ] react (component lifecycle, setState, setState callback, props as functions, hooks)
 - [ ] react native - https://medium.com/entria/learning-path-react-native-5a97e9ce8c52#.dpkt0we4b
 - [ ] flexbox - http://flexboxfroggy.com/
 - [ ] mongoose
