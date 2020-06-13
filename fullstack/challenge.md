@@ -18,6 +18,6 @@
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jest-everywhere.now.sh
-[our boilerplate]: https://github.com/entria/graphql-dataloader-boilerplate
+[our boilerplate]: https://github.com/entria/entria-fullstack
 [Github]: https://developer.github.com/v4/
 [Yelp]: https://www.yelp.com/developers/platform
