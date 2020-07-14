@@ -5,11 +5,10 @@
 Apps (Mobile and Web) for their users and customers faster than any other company in the market.
 
 ## Team
-Entria is led by an ex-amazon employee with experience in Brazil and overseas.
 Developers passionated in solving complex problems and deliver high quality code.
 
 # Jobs
-We have 3 types of Jobs available at Entria Tech Team: **backend**, **frontend** and **fullstack**.
+We have 3 types of Jobs available at Mobix Tech Team: **backend**, **frontend** and **fullstack**.
 
 # Backend (allocated or remote)
 ## Description
