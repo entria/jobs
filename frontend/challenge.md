@@ -1,8 +1,8 @@
 # Frontend Challenge
-
 - [ ] Create a List and Detail view for some model (e.g: todos, posts, products)
 - [ ] it should use React
-- [ ] it should use inline style
+- [ ] it should use Styled Components
+- [ ] it should use TypeScript
 - [ ] it should be open sourced on your github repo
 
 # Extras
