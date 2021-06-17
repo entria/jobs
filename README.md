@@ -3,13 +3,19 @@
 ## What we do?
 - `We build cool stuff`
 - **Services and Products**. We build services and products for final users and businesses.
-Our most popular app is BrandLovers (https://brandlovers.com), a social network powered with machine learning
-to provide the best beauty products for your needs.
+Our most popular product is OpenPix (https://openpix.com.br/), a Pix payment management platform with machine learning
+to provide the best of modules, plugins and help our customer to improve their product.
+  
 - **Enterprise Solutions**. We help big enterprises solve their legacy problems and deliver high quality
 Apps (Mobile and Web) for their users and customers faster than any other company in the market.
+  
 - **Open Source**. We collaborate in a lot of open source projects and we work on our own as well.
-[Create GraphQL](https://github.com/lucasbento/create-graphql) was produced based on our production projects
+
+- [Entria Fullstack Playground](https://github.com/entria/entria-fullstack)
+- [GraphQL Mongoose Loader](https://github.com/entria/graphql-mongoose-loader)
+- [Create GraphQL](https://github.com/lucasbento/create-graphql) was produced based on our production projects
 experiences and needs.
+  
 - **Community**. We've founded [React-SP Meetup](https://www.meetup.com/ReactJS-SP/) and [React Brasil slack](react-brasil-slack.herokuapp.com)
 community to share knowledge and learn from the community.
 
