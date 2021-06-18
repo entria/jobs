@@ -3,7 +3,7 @@
 ## What we do?
 - `We build cool stuff`
 - **Services and Products**. We build services and products for final users and businesses.
-Our most popular product is OpenPix (https://openpix.com.br/), a Pix payment management platform with machine learning
+Our most popular product is OpenPix (https://openpix.com.br/), a Pix payment management platform
 to provide the best of modules, plugins and help our customer to improve their product.
   
 - **Enterprise Solutions**. We help big enterprises solve their legacy problems and deliver high quality
