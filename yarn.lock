@@ -1161,10 +1161,10 @@
     "@babel/helper-validator-identifier" "^7.15.7"
     to-fast-properties "^2.0.0"
 
-"@cmfcmf/docusaurus-search-local@^0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@cmfcmf/docusaurus-search-local/-/docusaurus-search-local-0.8.0.tgz#52704d2d1016ed306db3aae3367b457458650d32"
-  integrity sha512-+rrizNJdkPNQDZ1eWpGJH7KSV9RoBJ75u/6UasVrdLjBl1yBdr3M3So1AkGstff7kexZLXADgbApKjtkZYyXIg==
+"@cmfcmf/docusaurus-search-local@^0.9.0":
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/@cmfcmf/docusaurus-search-local/-/docusaurus-search-local-0.9.0.tgz#a81d6cced895c55ffb95bbf903bfa21d2f71e00e"
+  integrity sha512-EvvwZfbp7kwFwdGEqNq834IWvbZa025g5MgQFZd9FGZmW7KgghdV3v1GiKobeTBg5OlzdAI4/6cN0s7NTHRTTg==
   dependencies:
     "@algolia/autocomplete-js" "^1.2.2"
     "@algolia/autocomplete-theme-classic" "^1.2.2"
