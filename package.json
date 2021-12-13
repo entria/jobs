@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^0.8.0",
-    "@docusaurus/core": "2.0.0-beta.10",
+    "@docusaurus/core": "2.0.0-beta.13",
     "@docusaurus/preset-classic": "2.0.0-beta.10",
     "@mdx-js/react": "^1.6.21",
     "clsx": "^1.1.1",
