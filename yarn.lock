@@ -9,14 +9,21 @@
   dependencies:
     "@algolia/autocomplete-shared" "1.5.0"
 
-"@algolia/autocomplete-js@^1.2.2":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-js/-/autocomplete-js-1.5.0.tgz#552705a3a0f7d8b0867d0e6f921df047afa92283"
-  integrity sha512-1w2AhDuXuWM/65gjok1/0oGr7DIHk/pQW2pdcnnOpc2bSNcvN0v1+VVX54PtcKTJpwwFNGPCTGnM9PHuWBvRsQ==
+"@algolia/autocomplete-core@1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-core/-/autocomplete-core-1.5.1.tgz#7c6ecc1a1bb8bce0f7c6f04afe16a82457ea2f12"
+  integrity sha512-18uRUqR0vSmbKSZxUjo8EJcYLdUZlcpA9LiKMUs7c87aABqib3PFKaTnQYMmM7hpI+FduU3GBvN7EOgLTeaa6g==
   dependencies:
-    "@algolia/autocomplete-core" "1.5.0"
-    "@algolia/autocomplete-preset-algolia" "1.5.0"
-    "@algolia/autocomplete-shared" "1.5.0"
+    "@algolia/autocomplete-shared" "1.5.1"
+
+"@algolia/autocomplete-js@^1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-js/-/autocomplete-js-1.5.1.tgz#b86eb20b99b94feedf0e5f43d8b65c4d9287322b"
+  integrity sha512-lRYNkHtuUI+SVnSiiryRThRN/3DpwW4KrM5j6oIFbsfsW8nwj5rsd+6x9Z4+MPwzC/8iM/TJEUoalwQBR+ZScA==
+  dependencies:
+    "@algolia/autocomplete-core" "1.5.1"
+    "@algolia/autocomplete-preset-algolia" "1.5.1"
+    "@algolia/autocomplete-shared" "1.5.1"
     preact "^10.0.0"
 
 "@algolia/autocomplete-preset-algolia@1.5.0":
@@ -26,15 +33,27 @@
   dependencies:
     "@algolia/autocomplete-shared" "1.5.0"
 
+"@algolia/autocomplete-preset-algolia@1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-preset-algolia/-/autocomplete-preset-algolia-1.5.1.tgz#6aa30eac79ccf06eb274297e4a23ce45e542eb4f"
+  integrity sha512-0hgoAHk0StMQkT73aiui+IZEKqkexOTapEowKNSQPB55aLeuC2VKGbhVk5mdrw5juP8TjXLihGovLedv1zTjeA==
+  dependencies:
+    "@algolia/autocomplete-shared" "1.5.1"
+
 "@algolia/autocomplete-shared@1.5.0":
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@algolia/autocomplete-shared/-/autocomplete-shared-1.5.0.tgz#09580bc89408a2ab5f29e312120dad68f58019bd"
   integrity sha512-bRSkqHHHSwZYbFY3w9hgMyQRm86Wz27bRaGCbNldLfbk0zUjApmE4ajx+ZCVSLqxvcUEjMqZFJzDsder12eKsg==
 
-"@algolia/autocomplete-theme-classic@^1.2.2":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-theme-classic/-/autocomplete-theme-classic-1.5.0.tgz#2212bbe707ac1c0598c755d9ff3d3335ebcd47f4"
-  integrity sha512-SVCCrXqZ1lviOtiw970lpAhRc7LNsp277G4ZjkOpiWzWAR4aTmWc5MWGSs/MdOwgM4XbCgeeQWbWR2bsaBdL9Q==
+"@algolia/autocomplete-shared@1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-shared/-/autocomplete-shared-1.5.1.tgz#8f71c9b5c8f590f6c900984a7288452f9fbba290"
+  integrity sha512-sQjSehycUho+DXz/XRCFyfkvS5ks/t9KXSpeI3TrneaWbY8gxSfKmiabyF8UG5rRYFL2k/mLpFCbYmC0WA70mg==
+
+"@algolia/autocomplete-theme-classic@^1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-theme-classic/-/autocomplete-theme-classic-1.5.1.tgz#8c237de496de4dc78d7fd6d74bed25ef16fa4f35"
+  integrity sha512-0z9wDAFXT+WA2dWNEAj9KcDNcBL+sitnlkKJJeyVIAOhQZjzvY6Qt5VtM1StqPL9nEUBm3Pm0uftWlPqZFy2oQ==
 
 "@algolia/cache-browser-local-storage@4.11.0":
   version "4.11.0"
@@ -1161,13 +1180,13 @@
     "@babel/helper-validator-identifier" "^7.15.7"
     to-fast-properties "^2.0.0"
 
-"@cmfcmf/docusaurus-search-local@^0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@cmfcmf/docusaurus-search-local/-/docusaurus-search-local-0.8.0.tgz#52704d2d1016ed306db3aae3367b457458650d32"
-  integrity sha512-+rrizNJdkPNQDZ1eWpGJH7KSV9RoBJ75u/6UasVrdLjBl1yBdr3M3So1AkGstff7kexZLXADgbApKjtkZYyXIg==
+"@cmfcmf/docusaurus-search-local@^0.9.2":
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/@cmfcmf/docusaurus-search-local/-/docusaurus-search-local-0.9.2.tgz#dfdadca9674fdb7f169e3cee1dca51fc6cf52de4"
+  integrity sha512-57ONhsUbZbod252XQsswFHdjLOAu1JqGP8YwEQMpCVZw++ctAp/YGmua/FbH0GqjpLBtpLV8RTsWxLGRnS9dAg==
   dependencies:
-    "@algolia/autocomplete-js" "^1.2.2"
-    "@algolia/autocomplete-theme-classic" "^1.2.2"
+    "@algolia/autocomplete-js" "^1.5.1"
+    "@algolia/autocomplete-theme-classic" "^1.5.1"
     "@algolia/client-search" "^4.10.3"
     algoliasearch "^4.10.3"
     cheerio "^1.0.0-rc.9"
