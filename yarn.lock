@@ -1190,10 +1190,10 @@
     "@docsearch/css" "3.0.0-alpha.42"
     algoliasearch "^4.0.0"
 
-"@docusaurus/core@2.0.0-beta.10":
-  version "2.0.0-beta.10"
-  resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-2.0.0-beta.10.tgz#c82f1ea7e3c3f6f71b7d7d610a62a21235223c9d"
-  integrity sha512-2V/BRp2i+xBJc9XQgQWPEY+5p3E7HT4XcdOJgfYWCWA0yNNMjcd3KCeAbSpglXGvUcyCdY8Yl1JChBQoKo8CIA==
+"@docusaurus/core@2.0.0-beta.14":
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-2.0.0-beta.14.tgz#9baf8fbfe29f444f985616013b5d80435ea5f29e"
+  integrity sha512-dW95WbD+WE+35Ee1RYIS1QDcBhvUxUWuDmrWr1X0uH5ZHIeOmOnsGVjjn4FA8VN2MkF0uuWknmRakQmJk0KMZw==
   dependencies:
     "@babel/core" "^7.16.0"
     "@babel/generator" "^7.16.0"
@@ -1205,19 +1205,19 @@
     "@babel/runtime" "^7.16.3"
     "@babel/runtime-corejs3" "^7.16.3"
     "@babel/traverse" "^7.16.3"
-    "@docusaurus/cssnano-preset" "2.0.0-beta.10"
-    "@docusaurus/mdx-loader" "2.0.0-beta.10"
+    "@docusaurus/cssnano-preset" "2.0.0-beta.14"
+    "@docusaurus/logger" "2.0.0-beta.14"
+    "@docusaurus/mdx-loader" "2.0.0-beta.14"
     "@docusaurus/react-loadable" "5.5.2"
-    "@docusaurus/utils" "2.0.0-beta.10"
-    "@docusaurus/utils-common" "2.0.0-beta.10"
-    "@docusaurus/utils-validation" "2.0.0-beta.10"
+    "@docusaurus/utils" "2.0.0-beta.14"
+    "@docusaurus/utils-common" "2.0.0-beta.14"
+    "@docusaurus/utils-validation" "2.0.0-beta.14"
     "@slorber/static-site-generator-webpack-plugin" "^4.0.0"
     "@svgr/webpack" "^6.0.0"
     autoprefixer "^10.3.5"
     babel-loader "^8.2.2"
     babel-plugin-dynamic-import-node "2.3.0"
     boxen "^5.0.1"
-    chalk "^4.1.2"
     chokidar "^3.5.2"
     clean-css "^5.1.5"
     commander "^5.1.0"
@@ -1271,14 +1271,22 @@
     webpack-merge "^5.8.0"
     webpackbar "^5.0.0-3"
 
-"@docusaurus/cssnano-preset@2.0.0-beta.10":
-  version "2.0.0-beta.10"
-  resolved "https://registry.yarnpkg.com/@docusaurus/cssnano-preset/-/cssnano-preset-2.0.0-beta.10.tgz#086b618a006f9c64d3819cd51c1b361c39538bbb"
-  integrity sha512-xzHUGD4W1h9hlw739JjOcnHUsUInxE9ZOeXRjzbeAhytVDwnPMjBHf2gEQJ1auY0k2RQRDmGeEWM5XxJP1BSIA==
+"@docusaurus/cssnano-preset@2.0.0-beta.14":
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/@docusaurus/cssnano-preset/-/cssnano-preset-2.0.0-beta.14.tgz#99bad713e3b58a89f63c25cec90b83437c3b3f2d"
+  integrity sha512-O5CebLXrytSQSpa0cgoMIUZ19gnLfCHhHPYqMfKxk0kvgR6g8b5AbsXxaMbgFNAqH690zPRsXmXb39BmXC7fMg==
   dependencies:
     cssnano-preset-advanced "^5.1.4"
     postcss "^8.3.7"
     postcss-sort-media-queries "^4.1.0"
+
+"@docusaurus/logger@2.0.0-beta.14":
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/@docusaurus/logger/-/logger-2.0.0-beta.14.tgz#d8c4e5f1c8b39149705587b98ca926549be51064"
+  integrity sha512-KNK8RgTGArXXlTUGhHUcYLJCI51gTMerSoebNXpTxAOBHFqjwJKv95LqVOy/uotoJZDUeEWR4vS/szGz4g7NaA==
+  dependencies:
+    chalk "^4.1.2"
+    tslib "^2.3.1"
 
 "@docusaurus/mdx-loader@2.0.0-beta.10":
   version "2.0.0-beta.10"
@@ -1291,6 +1299,29 @@
     "@mdx-js/mdx" "^1.6.21"
     "@mdx-js/react" "^1.6.21"
     chalk "^4.1.2"
+    escape-html "^1.0.3"
+    file-loader "^6.2.0"
+    fs-extra "^10.0.0"
+    gray-matter "^4.0.3"
+    mdast-util-to-string "^2.0.0"
+    remark-emoji "^2.1.0"
+    stringify-object "^3.3.0"
+    tslib "^2.3.1"
+    unist-util-visit "^2.0.2"
+    url-loader "^4.1.1"
+    webpack "^5.61.0"
+
+"@docusaurus/mdx-loader@2.0.0-beta.14":
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/@docusaurus/mdx-loader/-/mdx-loader-2.0.0-beta.14.tgz#f4750a02a8d178c843bc50f29f5a92d6cd0692cd"
+  integrity sha512-lusTVTHc4WbNQY8bDM9zPQWZBIo70SnEyWzCqtznxpV7L3kjSoWEpBCHaYWE/lY2VhvayRsZtrqLwNs3KQgqXw==
+  dependencies:
+    "@babel/parser" "^7.16.4"
+    "@babel/traverse" "^7.16.3"
+    "@docusaurus/logger" "2.0.0-beta.14"
+    "@docusaurus/utils" "2.0.0-beta.14"
+    "@mdx-js/mdx" "^1.6.21"
+    "@mdx-js/react" "^1.6.21"
     escape-html "^1.0.3"
     file-loader "^6.2.0"
     fs-extra "^10.0.0"
@@ -1491,6 +1522,13 @@
   dependencies:
     tslib "^2.3.1"
 
+"@docusaurus/utils-common@2.0.0-beta.14":
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/@docusaurus/utils-common/-/utils-common-2.0.0-beta.14.tgz#4ee8a266366722b2c98e17c12b109236dd2b32fb"
+  integrity sha512-hNWyy083Bm+6jEzsm05gFmEfwumXph0E46s2HrWkSM8tClrOVmu/C1Rm7kWYn561gXHhrATtyXr/u8bKXByFcQ==
+  dependencies:
+    tslib "^2.3.1"
+
 "@docusaurus/utils-validation@2.0.0-beta.10":
   version "2.0.0-beta.10"
   resolved "https://registry.yarnpkg.com/@docusaurus/utils-validation/-/utils-validation-2.0.0-beta.10.tgz#271e6fe19741388a7db196f37861ce4ac8303eee"
@@ -1498,6 +1536,16 @@
   dependencies:
     "@docusaurus/utils" "2.0.0-beta.10"
     chalk "^4.1.2"
+    joi "^17.4.2"
+    tslib "^2.3.1"
+
+"@docusaurus/utils-validation@2.0.0-beta.14":
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/@docusaurus/utils-validation/-/utils-validation-2.0.0-beta.14.tgz#c5e54adbe6dd4b3d6f5525ae5138c0214e75a6c2"
+  integrity sha512-ttDp/fXjbM6rTfP8XCmBKtNygfPg8cncp+rPsWHdSFjGmE7HkinilFTtaw0Zos/096TtxsQx3DgGQyPOl6prnA==
+  dependencies:
+    "@docusaurus/logger" "2.0.0-beta.14"
+    "@docusaurus/utils" "2.0.0-beta.14"
     joi "^17.4.2"
     tslib "^2.3.1"
 
@@ -1509,6 +1557,28 @@
     "@mdx-js/runtime" "^1.6.22"
     "@svgr/webpack" "^6.0.0"
     chalk "^4.1.2"
+    escape-string-regexp "^4.0.0"
+    file-loader "^6.2.0"
+    fs-extra "^10.0.0"
+    github-slugger "^1.4.0"
+    globby "^11.0.4"
+    gray-matter "^4.0.3"
+    lodash "^4.17.20"
+    micromatch "^4.0.4"
+    remark-mdx-remove-exports "^1.6.22"
+    remark-mdx-remove-imports "^1.6.22"
+    resolve-pathname "^3.0.0"
+    tslib "^2.3.1"
+    url-loader "^4.1.1"
+
+"@docusaurus/utils@2.0.0-beta.14":
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/@docusaurus/utils/-/utils-2.0.0-beta.14.tgz#494d2181cc0fd264ebe12f2a08c6ae04878e5f90"
+  integrity sha512-7V+X70a+7UJHS7PeXS/BO2jz+zXaKhRlT7MUe5khu6i6n1oQA3Jqx1sfu78slemqEWe8u337jxal6uILcB0IWQ==
+  dependencies:
+    "@docusaurus/logger" "2.0.0-beta.14"
+    "@mdx-js/runtime" "^1.6.22"
+    "@svgr/webpack" "^6.0.0"
     escape-string-regexp "^4.0.0"
     file-loader "^6.2.0"
     fs-extra "^10.0.0"
