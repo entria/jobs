@@ -14,9 +14,9 @@
     ]
   },
   "dependencies": {
-    "@cmfcmf/docusaurus-search-local": "^0.8.0",
-    "@docusaurus/core": "2.0.0-beta.10",
-    "@docusaurus/preset-classic": "2.0.0-beta.10",
+    "@cmfcmf/docusaurus-search-local": "^0.10.0",
+    "@docusaurus/core": "2.0.0-beta.15",
+    "@docusaurus/preset-classic": "2.0.0-beta.15",
     "@mdx-js/react": "^2.0.0",
     "clsx": "^1.1.1",
     "prism-react-renderer": "^1.3.1",
