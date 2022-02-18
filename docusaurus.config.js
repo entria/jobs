@@ -17,7 +17,7 @@ const config = {
   projectName: 'jobs', // Usually your repo name.
   trailingSlash: false,
   plugins: [
-    // require.resolve('@cmfcmf/docusaurus-search-local'),
+    require.resolve('@cmfcmf/docusaurus-search-local'),
   ],
   presets: [
     [
