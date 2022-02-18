@@ -1,23 +1,17 @@
 # FullStack Challenge
 
-## Create a React Native app
-- [ ] it should run on both iOS and Android
-- [ ] it should use Relay Modern
-- [ ] it should use [our boilerplate]  or [Github] or [Yelp] schemas 
-- [ ] it should show retrieve the data from the server and display it inside a FlatList
+## CRUD GraphQL + Relay
+- [ ] GraphQL server using node, typescript, koa, graphql-helix
+- [ ] Relay hooks React web
 - [ ] it should be open sourced on your github repo
 
 ## Extras
 - [ ] design
-- [ ] fastlane
 - [ ] authentication
-- [ ] own GraphQL server
 - [ ] create a [storybook] with your components
-- [ ] tests using [jest]
+- [ ] tests using [jest] - testing library
 
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jest-everywhere.now.sh
-[our boilerplate]: https://github.com/entria/entria-fullstack
 [Github]: https://developer.github.com/v4/
-[Yelp]: https://www.yelp.com/developers/platform
