@@ -13,8 +13,6 @@ Apps (Mobile and Web) for their users and customers faster than any other compan
 
 - [Entria Fullstack Playground](https://github.com/entria/entria-fullstack)
 - [GraphQL Mongoose Loader](https://github.com/entria/graphql-mongoose-loader)
-- [Create GraphQL](https://github.com/lucasbento/create-graphql) was produced based on our production projects
-experiences and needs.
   
 - **Community**. We've founded [React-SP Meetup](https://www.meetup.com/ReactJS-SP/) and [React Brasil slack](react-brasil-slack.herokuapp.com)
 community to share knowledge and learn from the community.
@@ -24,7 +22,7 @@ Entria is led by an ex-amazon employee with experience in Brazil and overseas.
 Developers passionated in solving complex problems and deliver high quality code.
 
 # Jobs
-We have 5 types of Jobs available at Entria Tech Team: **internship**, **summer internship**, **backend**, **frontend** and **fullstack**.
+We have 3 types of Jobs available at Entria Tech Team: **internship**, **summer internship**, **fullstack**.
 If you indicate an awesome developer, and he/she get hired, we pay you R$ 500,00
 
 # How to Get Hired?
@@ -51,7 +49,7 @@ Internship will include working in a variety of projects as a fullstack to learn
 - Flexible schedule based on University needs (exams and projects)
 - Great place to work and learn
 
-# Summer Internship (allocated)
+# Summer Internship
 It is very common in USA to have summer internships, we also believe this is a great opportunity to interns to know Entria and to learn a lot of things that University does not provide.
 We provide 2 opportunities in a year:
 
@@ -60,40 +58,20 @@ We provide 2 opportunities in a year:
 
 It is 3 to 4 weeks here at <img src="./img/logo.png" width="12" height="12" />, where you gonna learn how become a FullStack Developer and much practical stuff for life.
 
-# Backend (allocated or remote)
-## Description
-Backend developers will work on multiple projects to solve hard backend problems using Javascript, Nodejs, Koajs, Mongodb, WebSockets and GraphQL.
-They will deploy all these projects using these tools: Docker, Kubernetes, Jenkins/CircleCi.
-
-## Requirements
-- [ ] All the requirements from interns
-- [ ] Basic knowledge of Nodejs
-- [ ] Basic knowledge of REST api
-- [ ] Basic knowledge of database modeling
-- [ ] Basic knowledge of MongoDB
-- [ ] Good to know: Koajs, WebSockets, GraphQL, Docker, Kubernetes (not required)
-- [ ] [Challenge](./backend/challenge.md)
-
-# Frontend (allocated or remote)
-## Description
-Frontend developers will work on multiple projects to solve hard frontend and mobile problems using React, React Native, Redux, Relay.
-
-## Requirements
-- [ ] All the requirements from interns
-- [ ] Basic knowledge of React
-- [ ] Basic knowledge of React Native
-- [ ] Basic knowledge of Flexbox
-- [ ] Basic knowledge of Styling and Css
-- [ ] Good to know: Redux, Relay (not required)
-- [ ] [Challenge](./frontend/challenge.md)
-
-# FullStack (allocated or remote)
+# FullStack
 ## Description
 Fullstack developers build, test and deliver backend, frontend and mobile parts of projects, having a global overview of the whole project.
 
 ## Requirements
-- [ ] All the requirements for backend developers
-- [ ] All the requirements for frontend developers
+- [ ] Basic knowledge of Nodejs
+- [ ] Basic knowledge of REST api
+- [ ] Basic knowledge of database modeling
+- [ ] Basic knowledge of MongoDB
+- [ ] Basic knowledge of React
+- [ ] Basic knowledge of React Native
+- [ ] Basic knowledge of Flexbox
+- [ ] Basic knowledge of Styling and Css
+- [ ] Good to know: Koajs, WebSockets, GraphQL, Docker, Kubernetes, Relay
 - [ ] Good to have: experience in fullstack projects
 - [ ] [Challenge](./fullstack/challenge.md)
 
