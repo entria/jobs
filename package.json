@@ -16,7 +16,7 @@
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "0.11.0",
     "@docusaurus/core": "2.0.0-rc.1",
-    "@docusaurus/preset-classic": "2.0.0-rc.1",
+    "@docusaurus/preset-classic": "2.0.1",
     "@mdx-js/react": "2.1.2",
     "clsx": "^1.2.1",
     "prism-react-renderer": "^1.3.5",
